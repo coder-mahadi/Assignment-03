@@ -1,0 +1,18 @@
+{
+  "name": "assignment_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon curdOperation.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1",
+    "nodemon": "^2.0.20",
+    "readline": "^1.3.0"
+  }
+}
